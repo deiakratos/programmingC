@@ -1,6 +1,6 @@
 1.
 #include <stdio.h>
-
+    
 int main()
 {
     int const n = 3;
